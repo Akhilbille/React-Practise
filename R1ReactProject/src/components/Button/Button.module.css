@@ -1,0 +1,13 @@
+.btn {
+    border: 0.5px solid grey;
+    width: 7rem;
+    height: 2.5rem;
+    font-size: 18px;
+    border-radius: 5px;
+
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+    color: white;
+}
